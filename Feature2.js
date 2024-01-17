@@ -1,0 +1,1 @@
+console.log("Feature 2 is added in branch feature2")
