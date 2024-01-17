@@ -14,3 +14,5 @@ const day = today.getDate().toString().padStart(2,0);
 console.log("today date is ")
 
 console.log(year+"-"+month+"-"+day)
+
+
